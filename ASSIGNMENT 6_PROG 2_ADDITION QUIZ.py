@@ -59,8 +59,3 @@ def quizProper():
     pauseNext("\nEnd of first quiz...\n")
     
 quizProper()
-
-
-
-
-
